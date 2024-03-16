@@ -289,7 +289,7 @@ ipdb.set_trace()
 Drop and recreate the table by executing the updated `debug.py` file:
 
 ```bash
-python lib/debug.py
+python3 lib/debug.py
 ```
 
 Confirm the table has been recreated using either the SQLITE EXPLORER extension,
